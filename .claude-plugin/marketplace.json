@@ -1,0 +1,40 @@
+{
+  "name": "workfxai",
+  "description": "Plugins from WorkfxAI — the Growth AI Agents OS. Tools to measure and grow your domain's presence in the AI-discovery layer: Searched, Cited, Recommended.",
+  "version": "0.1.0",
+  "owner": {
+    "name": "Vincent Po Li (WorkfxAI)",
+    "email": "vincent@workfx.ai"
+  },
+  "metadata": {
+    "pluginRoot": "."
+  },
+  "plugins": [
+    {
+      "name": "geo-citation-checker",
+      "source": ".",
+      "description": "Check if ChatGPT, Perplexity, Claude, and Gemini cite your domain for any prompt. The smallest tool that measures the 'Cited' half of AI-discovery growth.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Vincent Po Li",
+        "email": "vincent@workfx.ai"
+      },
+      "homepage": "https://github.com/PO-VINCENT/workfxai-geo-citation-checker",
+      "repository": "https://github.com/PO-VINCENT/workfxai-geo-citation-checker",
+      "license": "MIT",
+      "category": "growth-and-marketing",
+      "keywords": [
+        "geo",
+        "aeo",
+        "ai-seo",
+        "llm-citation",
+        "chatgpt",
+        "perplexity",
+        "claude",
+        "gemini",
+        "ai-search",
+        "generative-engine-optimization"
+      ]
+    }
+  ]
+}

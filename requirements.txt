@@ -1,0 +1,9 @@
+# geo-citation-checker — Python dependencies
+#
+# All four model SDKs are optional. Install only what you need for the models
+# you have API keys for. Missing SDKs cause that model to be skipped, not crash.
+
+openai>=1.50.0              # ChatGPT (Responses API + web_search) AND Perplexity (OpenAI-compatible endpoint)
+anthropic>=0.40.0           # Claude (Messages API + web_search_20250305 tool)
+google-generativeai>=0.8.0  # Gemini (Google Search grounding)
+requests>=2.32.0            # for resolving Gemini's redirect URLs (always required)

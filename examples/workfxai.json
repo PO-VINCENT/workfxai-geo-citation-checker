@@ -1,0 +1,40 @@
+{
+  "prompt": "best AI SEO tool",
+  "domain": "workfx.ai",
+  "checkedAt": "2026-05-11T16:46:16.962005Z",
+  "results": [
+    {
+      "model": "chatgpt",
+      "cited": false,
+      "position": null,
+      "snippet": null,
+      "matchedUrl": null,
+      "totalCitations": 10,
+      "allSources": [
+        { "url": "https://writesonic.com/blog/surfer-seo-review", "title": "Surfer SEO Review: An In-Depth Analysis and Evaluation" },
+        { "url": "https://tested.media/best-ai-seo-tool/", "title": "Best AI SEO Tool 2026: Top 10 Picks Ranked and Scored" },
+        { "url": "https://www.semrush.com/semrush-free-trial/", "title": "Semrush Free Trial | Try Semrush Free for 7 Days" },
+        { "url": "https://zplatform.ai/best-ai-tools/seo/", "title": "Best AI SEO Tools 2026: 10 Tools Hands-On Tested by an SEO" },
+        { "url": "https://www.techradar.com/reviews/ahrefs", "title": "Ahrefs SEO platform review" },
+        { "url": "https://aitools.inc/categories/ai-seo-tools/best", "title": "Best AI SEO Tools (in 2026) | AI Tools" },
+        { "url": "https://www.techradar.com/pro/clearscope-review", "title": "Clearscope review: A well-rounded SEO optimization tool for business use" }
+      ]
+    },
+    {
+      "model": "claude",
+      "cited": false,
+      "position": null,
+      "snippet": null,
+      "matchedUrl": null,
+      "totalCitations": 10,
+      "allSources": [
+        { "url": "https://www.rankability.com/blog/best-ai-seo-tools/", "title": "We Tested 15 Best AI SEO Tools. Here's Our Favorite for 2026" },
+        { "url": "https://onelittleweb.com/top-tools/best-ai-seo-tools/", "title": "14 Best AI SEO Tools We've Tested for 2026" },
+        { "url": "https://www.eesel.ai/blog/best-seo-ai-tools", "title": "I tried dozens of platforms to find the 6 best SEO AI tools in 2026" },
+        { "url": "https://whatagraph.com/blog/articles/ai-seo-tools", "title": "We Tested the 12 Best (& Underrated) AI SEO Tools in 2026" },
+        { "url": "https://medium.com/@timsoulo/best-ai-seo-tools-for-2026-content-optimization-keyword-research-and-ai-visibility-6e9a13c354db", "title": "Best AI SEO Tools for 2026 | by Tim Soulo (CMO @ Ahrefs)" },
+        { "url": "https://www.semrush.com/blog/best-ai-seo-tools/", "title": "8 Best AI SEO Tools for 2026 (Tested Firsthand)" }
+      ]
+    }
+  ]
+}

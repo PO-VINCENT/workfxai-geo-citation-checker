@@ -1,0 +1,7 @@
+# All optional. Install only the SDKs for the models you'll actually check.
+# Missing SDKs => that model is skipped (with a helpful error), not a crash.
+
+openai>=1.50.0              # ChatGPT (Responses API + web_search) AND Perplexity (OpenAI-compatible)
+anthropic>=0.40.0           # Claude (Messages API + web_search_20250305 tool)
+google-generativeai>=0.8.0  # Gemini (Google Search grounding)
+requests>=2.32.0            # for resolving Gemini's redirect URLs

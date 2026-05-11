@@ -1,0 +1,67 @@
+# --- Secrets ---
+.env
+.env.local
+.env.*.local
+*.secret
+secrets/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Node (legacy — if Node CLI returns) ---
+node_modules/
+*.tsbuildinfo
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# --- Logs / temp ---
+*.log
+*.tmp
+.cache/
+
+# --- Local-only run artifacts ---
+results/
+snapshots/
+
+# --- Excluded from initial commit ---
+# Legacy folder from earlier layout; canonical location is skills/geo-citation-checker/
+skill/
+# Stray file from a permission test
+skills/geo-citation-checker/test.txt

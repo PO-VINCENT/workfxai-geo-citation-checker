@@ -1,0 +1,24 @@
+{
+  "name": "geo-citation-checker",
+  "description": "Check if ChatGPT, Perplexity, Claude, and Gemini cite your domain for any prompt. The smallest tool that measures the 'Cited' half of AI-discovery growth — Searched, Cited, Recommended.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vincent Po Li",
+    "email": "vincent@workfx.ai"
+  },
+  "homepage": "https://github.com/PO-VINCENT/workfxai-geo-citation-checker",
+  "repository": "https://github.com/PO-VINCENT/workfxai-geo-citation-checker",
+  "license": "MIT",
+  "keywords": [
+    "geo",
+    "aeo",
+    "ai-seo",
+    "llm-citation",
+    "chatgpt",
+    "perplexity",
+    "claude",
+    "gemini",
+    "ai-search",
+    "generative-engine-optimization"
+  ]
+}
