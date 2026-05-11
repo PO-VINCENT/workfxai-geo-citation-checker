@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "geo-citation-checker",
-      "source": ".",
+      "source": "./",
       "description": "Check if ChatGPT, Perplexity, Claude, and Gemini cite your domain for any prompt. The smallest tool that measures the 'Cited' half of AI-discovery growth.",
       "version": "0.1.0",
       "author": {
