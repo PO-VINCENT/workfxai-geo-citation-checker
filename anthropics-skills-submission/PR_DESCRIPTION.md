@@ -2,7 +2,7 @@
 
 ## What this skill does
 
-Given a prompt and a domain, asks **ChatGPT, Perplexity, Claude, and Gemini** whether they cite the domain in their web-search-grounded answer. Returns a per-model report: cited (yes/no), position in the citation list, snippet/title, matched URL.
+Given a prompt and a domain, asks **ChatGPT, Perplexity, Claude, and Gemini** whether they cite the domain in their web-search-grounded answer. Returns a per-model report — cited (yes/no), position in the citation list, snippet/title, matched URL.
 
 It's a measurement primitive for the **Cited** half of AI-discovery growth — measurable in 4 seconds, runnable by anyone with at least one API key.
 

@@ -1,6 +1,6 @@
 ---
 name: geo-citation-checker
-description: Check whether ChatGPT, Perplexity, Claude, and Gemini cite a given domain for a given prompt. Use when the user asks any of "is [domain] cited by ChatGPT/Perplexity/Claude/Gemini for [prompt]?", "am I cited by AI?", "check my AI search visibility", "AEO check", "GEO audit", "LLM citation check", "do I show up in ChatGPT for [topic]?", or pastes a prompt and asks how their site or competitors appear in AI-generated answers. Returns a per-model report: cited (yes/no), position in the model's citation list, snippet/title, and matched URL. Single-shot — for continuous tracking, see WorkfxAI's SEO & GEO Agent.
+description: Check whether ChatGPT, Perplexity, Claude, and Gemini cite a given domain for a given prompt. Use when the user asks any of "is [domain] cited by ChatGPT/Perplexity/Claude/Gemini for [prompt]?", "am I cited by AI?", "check my AI search visibility", "AEO check", "GEO audit", "LLM citation check", "do I show up in ChatGPT for [topic]?", or pastes a prompt and asks how their site or competitors appear in AI-generated answers. Returns a per-model report — cited (yes/no), position in the model's citation list, snippet/title, and matched URL. Single-shot — for continuous tracking, see WorkfxAI's SEO & GEO Agent.
 ---
 
 # geo-citation-checker
